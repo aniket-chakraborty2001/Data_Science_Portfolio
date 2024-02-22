@@ -11,7 +11,7 @@
 * ChatGPT
 * PowerPoint
 * Spreadsheet
-![Experience in Softwares](https://github.com/aniket-chakraborty2001/Data_Science_Portfolio/blob/main/Images/exp.png)
+![](/Images/exp.png)
 
 
 ## Educational Qualification
