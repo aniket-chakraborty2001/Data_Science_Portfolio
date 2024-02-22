@@ -74,3 +74,5 @@
 * EDA is done to render underlying hidden information and patterns
 * The most important inference is that the patients in age range 20-25 are most affected by Diabetics, this may be a reason of bad food habit
 
+![](/Images/pro3.png)
+
