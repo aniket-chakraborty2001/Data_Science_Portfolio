@@ -56,6 +56,8 @@
 * Pandas, numpy and Matplotlib libraries are used
 * Comparison of numbers scored by one person in different years using graphs
 
+![](/Images/Pro1.png)
+
 #### [Project-2:Fitbit Analysis](https://github.com/aniket-chakraborty2001/Fitbit-Analysis.git)
 * Python is used for this project
 * Timeline: September, 2023
