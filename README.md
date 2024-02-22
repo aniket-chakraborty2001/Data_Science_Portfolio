@@ -18,6 +18,7 @@
 ![](/Images/exp.png)
 
 ---
+
 ## Educational Qualification
 * Baranagore Ramakrishna Mission Ashram High School (2007-2017)
 * Baranagore Narendranath Vidyamandir (2017-2019)
@@ -52,6 +53,7 @@
 
 # My Projects
 
+
 ## [Project-1:IMO Exam Score](https://github.com/aniket-chakraborty2001/IMO-EXAM-SCORE.git)
 * Python is used to complete the project
 * Timeline: May, 2023
@@ -60,6 +62,7 @@
 * Comparison of numbers scored by one person in different years using graphs
 
 ![](/Images/Pro1.png)
+
 
 ## [Project-2:Fitbit Analysis](https://github.com/aniket-chakraborty2001/Fitbit-Analysis.git)
 * Python is used for this project
@@ -70,6 +73,7 @@
 
 ![](/Images/pro2.png)
 
+
 ## [Project-3:Health Data Analysis](https://github.com/aniket-chakraborty2001/Health_Data)
 * R programming language is used
 * Timeline: May, 2023
@@ -78,6 +82,7 @@
 * The most important inference is that the patients in age range 20-25 are most affected by Diabetics, this may be a reason of bad food habit
 
 ![](/Images/pro3.png)
+
 
 ## [Project-4:Canadian Immegration](https://github.com/aniket-chakraborty2001/Canadian_Immigration_DV)
 * Python is used
@@ -89,6 +94,7 @@
 
 ![](/Images/Pro4.png)
 
+
 ## [Project-5:WorldCup 2K23 Data Analysis](https://github.com/aniket-chakraborty2001/CricketWorldCup2K23)
 * Softwares used - Python, SQL, Tableau
 * Timeline: November, 2023
@@ -98,10 +104,21 @@
 
 ![](/Images/pro5.png)
 
+
 ## [Project-6:Map Pointing](https://github.com/aniket-chakraborty2001/Folium_Map_Pointing)
 * Python Folium is used
 * Timeline: November, 2023
 * Pointed some important cities in India Map
 * Use latitude and longitude to point out a position
+
+![](/Images/pro6.png)
+
+
+## [Project-7:Statistical Analysis of Data](https://github.com/aniket-chakraborty2001/Statistical-Analysis)
+* Python programming language
+* Timeline: September, 2023
+* T test to check whether the group means are equal or not
+
+![](/Images/pro7.png)
 
 ![](/Images/pro6.png)
