@@ -7,7 +7,7 @@
 * Python
 * SQL
 * R Programming
-* Tableau
+* Tableau                   ![](https://github.com/aniket-chakraborty2001/Data_Science_Portfolio/blob/main/Images/exp.png)
 * ChatGPT
 * PowerPoint
 * Spreadsheet
