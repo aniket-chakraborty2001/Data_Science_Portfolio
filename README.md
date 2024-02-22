@@ -121,4 +121,23 @@
 
 ![](/Images/pro7.png)
 
-![](/Images/pro6.png)
+
+## [Project-8:Simple and Multiple Linear Regression](https://github.com/aniket-chakraborty2001/S-M_Linear_Regress.)
+* R programming is used
+* Timeline: May, 2023
+* In R, lm() function is used to build the model
+* The adjusted R-2 Score is important to know model accuracy
+* P value determines a feature is important or not
+* If P value is larger than significance level (0.05), we reject that feature from our linear relationship assumption
+
+![](/Images/pro8.png)
+
+
+## [Project-9:Binary Logistics Regression](https://github.com/aniket-chakraborty2001/Binary_Logistic_Regression)
+* R programming is used
+* Timeline: May,2023
+* In R, we use glm() function to conduct this
+* Deals with probability
+* Values ranges between 0 and 1
+
+![](/Images/pro9.png)
