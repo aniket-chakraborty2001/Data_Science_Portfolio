@@ -1,3 +1,6 @@
+
+![](/Images/picupdated.png)
+
 # Aniket Chakraborty
 **Data Science Aspirant**
 
