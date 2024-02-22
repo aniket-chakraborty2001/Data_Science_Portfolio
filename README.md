@@ -47,9 +47,9 @@
 
 ---
 
-## My Projects
+# My Projects
 
-#### [Project-1:IMO Exam Score](https://github.com/aniket-chakraborty2001/IMO-EXAM-SCORE.git)
+## [Project-1:IMO Exam Score](https://github.com/aniket-chakraborty2001/IMO-EXAM-SCORE.git)
 * Python is used to complete the project
 * Timeline: May, 2023
 * A simple data analysis project, comes under EDA
@@ -58,7 +58,7 @@
 
 ![](/Images/Pro1.png)
 
-#### [Project-2:Fitbit Analysis](https://github.com/aniket-chakraborty2001/Fitbit-Analysis.git)
+## [Project-2:Fitbit Analysis](https://github.com/aniket-chakraborty2001/Fitbit-Analysis.git)
 * Python is used for this project
 * Timeline: September, 2023
 * A simple EDA project
@@ -67,5 +67,10 @@
 
 ![](/Images/pro2.png)
 
-
+## [Project-3:Health Data Analysis](https://github.com/aniket-chakraborty2001/Health_Data)
+* R programming language is used
+* Timeline: May, 2023
+* Basic data science libraries such as tidyverse, ggplot2 and splyr are used
+* EDA is done to render underlying hidden information and patterns
+* The most important inference is that the patients in age range 20-25 are most affected by Diabetics, this may be a reason of bad food habit
 
