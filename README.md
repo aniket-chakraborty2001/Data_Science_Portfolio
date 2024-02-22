@@ -141,3 +141,16 @@
 * Values ranges between 0 and 1
 
 ![](/Images/pro9.png)
+
+
+## [Project-10:Factorial Design](https://github.com/aniket-chakraborty2001/Factorial_ANOVA)
+* R programming is used
+* Timeline: June,2023
+* The factors are in the form of l^f
+* Used when there are more than one factors and they have one or more than one levels
+* They have a special geometric shape depending on the number of factors and levels
+
+![](/Images/pro10.png)
+
+
+## []()
