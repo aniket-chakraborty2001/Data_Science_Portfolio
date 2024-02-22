@@ -33,7 +33,7 @@
 
 ---
 
-## Courses Learned in Data Science Carer
+## Courses Learned in Data Science Carrer
 * Python for Data Science
 * R for Data Science
 * Mathematics for Data Science
