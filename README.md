@@ -65,5 +65,7 @@
 * General data science libraries are used
 * Help to underdstand and analyse the regular human vitals captured by smart wtches
 
+![](/Images/pro2.png)
+
 
 
