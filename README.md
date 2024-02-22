@@ -20,6 +20,7 @@
 * Baranagore Narendranath Vidyamandir (2017-2019)
 * Ramakrishna Mission Vivekananda Centenary College (2019-2022) (BSc in Mathematics)
 * Manipal Academy of Higher Education (2022- present) (MSc in Data Science)
+
 ---
 
 ## My Certificate Courses
@@ -31,6 +32,7 @@
 * [Mathematics for Machine Learning](https://coursera.org/share/d9d89cd30c90f40245bd139712227dd4)
 
 ---
+
 ## Courses Learned in Data Science Carer
 * Python for Data Science
 * R for Data Science
@@ -44,4 +46,22 @@
 * Logistics Regression
 
 ---
+
 ## My Projects
+
+#### [Project-1:IMO Exam Score](https://github.com/aniket-chakraborty2001/IMO-EXAM-SCORE.git)
+* Python is used to complete the project
+* Timeline: May, 2023
+* A simple data analysis project, comes under EDA
+* Pandas, numpy and Matplotlib libraries are used
+* Comparison of numbers scored by one person in different years using graphs
+
+#### [Project-2:Fitbit Analysis](https://github.com/aniket-chakraborty2001/Fitbit-Analysis.git)
+* Python is used for this project
+* Timeline: September, 2023
+* A simple EDA project
+* General data science libraries are used
+* Help to underdstand and analyse the regular human vitals captured by smart wtches
+
+
+
