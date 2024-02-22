@@ -7,8 +7,23 @@
 * Python
 * SQL
 * R Programming
-* Tableau                   ![](https://github.com/aniket-chakraborty2001/Data_Science_Portfolio/blob/main/Images/exp.png)
+* Tableau                  
 * ChatGPT
 * PowerPoint
 * Spreadsheet
-  
+ ![](https://github.com/aniket-chakraborty2001/Data_Science_Portfolio/blob/main/Images/exp.png)
+
+
+## Educational Qualification
+* Baranagore Ramakrishna Mission Ashram High School (2007-2017)
+* Baranagore Narendranath Vidyamandir. (2017-2019)
+* Ramakrishna Mission Vivekananda Centenary College. (2019-2022). (Graduated in Mathematics)
+* Manipal Academy of Higher Education. (2022- present)(Post graduation in Data Science)
+
+## My Certificate Courses
+* Google Data Analytics
+* IBM Data Science
+* Data Visualization with Tableau
+* IBM Machine Learning
+* Prompt Engineering with ChatGPT
+* Mathematics for Machine Learning
