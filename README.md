@@ -11,6 +11,7 @@
 * ChatGPT
 * PowerPoint
 * Spreadsheet
+
 ![](/Images/exp.png)
 
 
