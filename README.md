@@ -86,5 +86,11 @@
 
 ![](/Images/Pro4.png)
 
+## [Project-5:WorldCup 2K23 Data Analysis](https://github.com/aniket-chakraborty2001/CricketWorldCup2K23)
+* Softwares used - Python, SQL, Tableau
+* Timeline: November, 2023
+* Data analysis on real life original data derived from google
+* Infer why India and Australia are the finalist
+* Discover some hidden pattenrs inside the data
 
-
+![](/Images/pro5.png)
