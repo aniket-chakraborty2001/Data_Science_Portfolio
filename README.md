@@ -76,3 +76,15 @@
 
 ![](/Images/pro3.png)
 
+## [Project-4:Canadian Immegration](https://github.com/aniket-chakraborty2001/Canadian_Immigration_DV)
+* Python is used
+* Timeline: December, 2023
+* Standard Data science python libraries are used
+* This project shows the rate of Immegration to Canada from 1980 onwards
+* Some unique plots such as Area plot, Regression Plot, Bubble plots are used
+* Inspired from IBM Data Science Data Visualization Segment
+
+![](/Images/Pro4.png)
+
+
+
