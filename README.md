@@ -94,3 +94,11 @@
 * Discover some hidden pattenrs inside the data
 
 ![](/Images/pro5.png)
+
+## [Project-6:Map Pointing](https://github.com/aniket-chakraborty2001/Folium_Map_Pointing)
+* Python Folium is used
+* Timeline: November, 2023
+* Pointed some important cities in India Map
+* Use latitude and longitude to point out a position
+
+![](/Images/pro6.png)
