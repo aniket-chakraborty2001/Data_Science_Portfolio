@@ -47,10 +47,9 @@
 
 ---
 
-# My Projects
+## My Projects
 
-
-## [Project-1:IMO Exam Score](https://github.com/aniket-chakraborty2001/IMO-EXAM-SCORE.git)
+### [Project-1: IMO Exam Score](https://github.com/aniket-chakraborty2001/IMO-EXAM-SCORE.git)
 * Python is used to complete the project
 * Timeline: May, 2023
 * A simple data analysis project, comes under EDA
@@ -60,7 +59,7 @@
 ![](/Images/Pro1.png)
 
 
-## [Project-2:Fitbit Analysis](https://github.com/aniket-chakraborty2001/Fitbit-Analysis.git)
+### [Project-2: Fitbit Analysis](https://github.com/aniket-chakraborty2001/Fitbit-Analysis.git)
 * Python is used for this project
 * Timeline: September, 2023
 * A simple EDA project
@@ -70,7 +69,7 @@
 ![](/Images/pro2.png)
 
 
-## [Project-3:Health Data Analysis](https://github.com/aniket-chakraborty2001/Health_Data)
+### [Project-3: Health Data Analysis](https://github.com/aniket-chakraborty2001/Health_Data)
 * R programming language is used
 * Timeline: May, 2023
 * Basic data science libraries such as tidyverse, ggplot2 and splyr are used
@@ -80,7 +79,7 @@
 ![](/Images/pro3.png)
 
 
-## [Project-4:Canadian Immegration](https://github.com/aniket-chakraborty2001/Canadian_Immigration_DV)
+### [Project-4: Canadian Immegration](https://github.com/aniket-chakraborty2001/Canadian_Immigration_DV)
 * Python is used
 * Timeline: December, 2023
 * Standard Data science python libraries are used
@@ -91,7 +90,7 @@
 ![](/Images/Pro4.png)
 
 
-## [Project-5:WorldCup 2K23 Data Analysis](https://github.com/aniket-chakraborty2001/CricketWorldCup2K23)
+### [Project-5: WorldCup 2K23 Data Analysis](https://github.com/aniket-chakraborty2001/CricketWorldCup2K23)
 * Softwares used - Python, SQL, Tableau
 * Timeline: November, 2023
 * Data analysis on real life original data derived from google
@@ -101,7 +100,7 @@
 ![](/Images/pro5.png)
 
 
-## [Project-6:Map Pointing](https://github.com/aniket-chakraborty2001/Folium_Map_Pointing)
+### [Project-6: Map Pointing](https://github.com/aniket-chakraborty2001/Folium_Map_Pointing)
 * Python Folium is used
 * Timeline: November, 2023
 * Pointed some important cities in India Map
@@ -110,7 +109,7 @@
 ![](/Images/pro6.png)
 
 
-## [Project-7:Statistical Analysis of Data](https://github.com/aniket-chakraborty2001/Statistical-Analysis)
+### [Project-7: Statistical Analysis of Data](https://github.com/aniket-chakraborty2001/Statistical-Analysis)
 * Python programming language
 * Timeline: September, 2023
 * T test to check whether the group means are equal or not
@@ -118,7 +117,7 @@
 ![](/Images/pro7.png)
 
 
-## [Project-8:Simple and Multiple Linear Regression](https://github.com/aniket-chakraborty2001/S-M_Linear_Regress.)
+### [Project-8: Simple and Multiple Linear Regression](https://github.com/aniket-chakraborty2001/S-M_Linear_Regress.)
 * R programming is used
 * Timeline: May, 2023
 * In R, lm() function is used to build the model
@@ -129,7 +128,7 @@
 ![](/Images/pro8.png)
 
 
-## [Project-9:Binary Logistics Regression](https://github.com/aniket-chakraborty2001/Binary_Logistic_Regression)
+### [Project-9: Binary Logistics Regression](https://github.com/aniket-chakraborty2001/Binary_Logistic_Regression)
 * R programming is used
 * Timeline: May,2023
 * In R, we use glm() function to conduct this
@@ -139,7 +138,7 @@
 ![](/Images/pro9.png)
 
 
-## [Project-10:Factorial Design](https://github.com/aniket-chakraborty2001/Factorial_ANOVA)
+### [Project-10: Factorial Design](https://github.com/aniket-chakraborty2001/Factorial_ANOVA)
 * R programming is used
 * Timeline: June,2023
 * The factors are in the form of l^f
@@ -149,4 +148,58 @@
 ![](/Images/pro10.png)
 
 
-## []()
+### [Project-11: Plotting of some Mathematical Functions](https://github.com/aniket-chakraborty2001/Plotting_Math_Func.git)
+* Use of python programming
+* Timeline: December, 2023
+* Use of python plotting functions such as matplotlib and seaborn
+* Use of def() class to define functions
+
+![](/Images/Pro11.png)
+
+### [Project-12: Properties of Polygon](https://github.com/aniket-chakraborty2001/Property-of-Polygon)
+* Use of python programming
+* Timeline: August, 2023
+* Def() class is used to define interior and exterior angles
+* Each interior angle can't exceed 180 degrees
+
+![](/Images/pro12.png)
+
+### [Project-13: Machine Learning Regression Analysis](https://github.com/aniket-chakraborty2001/ML_Regression_Analysis)
+* Python programming is used
+* Timeline: December, 2023
+* ML library scikit Learn is used in this project
+* To check accuracy metrics module is used
+* Supervised Machine Learning Process
+* The Regression is conducted by using Training and Test set
+
+![](/Images/pro13.png)
+
+
+### [Project-14: Classification- KNN](https://github.com/aniket-chakraborty2001/ML_KNN_Analysis)
+* Python Programming is used
+* Timeline: December, 2023
+* Sklearn is used with Knnclassifier
+* Metrics module is used to check accuracy
+* Supervised Machine Learning Process
+
+![](/Images/pro14.png)
+
+
+### [Project-15: Decision Tree Classifier](https://github.com/aniket-chakraborty2001/ML_Classification_DecisionTree_Analysis)
+* Python Programming is used
+* Timeline: December, 2023
+* Sklearn Decision Tree classifier is used
+* Supervised Machine Learning process
+* Metrics module is used to get the accuracy
+
+![](/Images/pro15.png)
+
+---
+
+## My Social Presence
+* [Gmail](aniket.chakraborty2001@gmail.com)
+* [GitHub](https://github.com/aniket-chakraborty2001)
+* [Tableau](https://public.tableau.com/app/profile/aniket.chakraborty3845/vizze)
+* [LinkedIn](www.linkedin.com/in/aniket-chakraborty20022001)
+* [Kaggle](https://www.kaggle.com/aniketc2001)
+* [Twitter](https://twitter.com/AniketChak29138)
