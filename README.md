@@ -213,7 +213,7 @@
 * Sklearn is not used. Instead I use scipy's dendrogram and linkage modukle
 * It is clear how the tree like structrure is formed.
 
-
+![](/Images/Pro17.png)
 
 
 ---
