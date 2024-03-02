@@ -205,6 +205,17 @@
 
 ![](/Images/pro16.png)
 
+
+### [Project-17: Agglomerative Clustering In Python](https://github.com/aniket-chakraborty2001/Agglomerative_Clustering_In_Python)
+* Python is used in this project
+* Timeline: March, 2024
+* Just like Clustering (K-Means), for this project, the data in hand must be numeric and scaled (Z-transformed)
+* Sklearn is not used. Instead I use scipy's dendrogram and linkage modukle
+* It is clear how the tree like structrure is formed.
+
+
+
+
 ---
 
 ## My Social Presence
