@@ -194,6 +194,17 @@
 
 ![](/Images/pro15.png)
 
+
+### [Project-16: K-Means Clustering Algorithm](https://github.com/aniket-chakraborty2001/K-Means_Clustering)
+* Python is used in this project
+*  Timeline: March. 2024
+*  Sklearn's KMeans, metrics are used
+*  WSS are calculated to create elbow plot
+*  Silhouette Scores are calculated to observe optimal number of clusters
+*  Cluster profiles are created along with Z score profiles
+
+![](/Images/pro16.png)
+
 ---
 
 ## My Social Presence
