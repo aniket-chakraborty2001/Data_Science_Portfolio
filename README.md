@@ -216,6 +216,14 @@
 ![](/Images/Pro17.png)
 
 
+### [Project-18: Australian Rain Prediction ML Project](https://github.com/aniket-chakraborty2001/Rain_Prediction_Australia)
+* Python is used to complete the project
+* Timeline: March, 2024
+* Linear Regression, Logistic Regression, KNN, Decision Tree, SVM
+* MAE, MSE, R2, Accuracy, Jaccard Index, F1 score, Log Loss, confusion_matrix
+* numpy, pandas, matplotlib, sklearn, itertools, warnings, os, magic functions
+
+
 ---
 
 ## My Social Presence
