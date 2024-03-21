@@ -223,6 +223,7 @@
 * MAE, MSE, R2, Accuracy, Jaccard Index, F1 score, Log Loss, confusion_matrix
 * numpy, pandas, matplotlib, sklearn, itertools, warnings, os, magic functions
 
+![](/Images/Pro18.png)
 
 ---
 
