@@ -1,6 +1,6 @@
 # Aniket Chakraborty
 
-*A final year MSc Data Science Student at Manipal Academy of Higher Education. Start my data science journey back in 2019 with Mathematics. I completed over 10 self hosted projects and some professional certificate courses so far.*
+*A final year MSc Data Science Student at Manipal Academy of Higher Education. Start my data science journey back in 2019 with Mathematics. I completed over 15 self hosted projects and some professional certificate courses so far.*
 
 ## My Skiils
 * Python
@@ -18,7 +18,7 @@
 ## Educational Qualification
 * Baranagore Ramakrishna Mission Ashram High School (2007-2017)
 * Baranagore Narendranath Vidyamandir (2017-2019)
-* Ramakrishna Mission Vivekananda Centenary College (2019-2022) (BSc in Mathematics)
+* Ramakrishna Mission Vivekananda Centenary College (2019-2022) (BSc(H) in Mathematics)
 * Manipal Academy of Higher Education (2022- present) (MSc in Data Science)
 
 ---
@@ -44,10 +44,13 @@
 * Deep Learning
 * Simple and Multiple Linear Regression
 * Logistics Regression
+* Natural Language Processing
+* Computer Vision
+* Report Writing
 
 ---
 
-## My Projects
+## My Data Science and Data Analysis Projects
 
 ### [Project-1: IMO Exam Score](https://github.com/aniket-chakraborty2001/IMO-EXAM-SCORE.git)
 * Python is used to complete the project
@@ -224,6 +227,18 @@
 * numpy, pandas, matplotlib, sklearn, itertools, warnings, os, magic functions
 
 ![](/Images/Pro18.png)
+
+
+### [Project-19: Statistical Test on Python](https://github.com/aniket-chakraborty2001/Statistical_Test_Python)
+* Python Numpy, Pandas, Seaborn, Matplotlib, Scipy is used
+* Boxplopts and Histograms are used to analyse the distribution
+* Normality Check is done using the Shapiro test
+* T test is done both on Gender and Test scores
+* Correlation Plot is calculated to know th pairwise correlation between scores using heatmap function.
+* Timeline: May, 2024
+
+![](/Images/Pro19.png)
+
 
 ---
 
